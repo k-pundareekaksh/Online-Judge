@@ -1,4 +1,4 @@
-# (Codefast)[https://www.codefast.me]
+# Codefast - live at https://www.codefast.me
 
 ## 🖥️ Full-Stack MERN C++ Compiler
 
