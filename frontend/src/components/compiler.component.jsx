@@ -22,7 +22,7 @@ function ModernCompiler() {
   // persistence templates and config
   const STORAGE_PREFIX = "modern_compiler";
   const languageTemplates = {
-    cpp: `#include <iostream>
+    cpp: `#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
